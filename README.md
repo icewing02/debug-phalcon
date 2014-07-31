@@ -1,0 +1,4 @@
+debug-phalcon
+=============
+
+Test connection.
